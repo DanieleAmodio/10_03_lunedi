@@ -1,0 +1,44 @@
+.logo{
+    height: 100px;
+    position: relative;
+    text-align: center;
+}
+
+main{
+    display: flex
+    ;
+        flex-direction: column;
+        padding-left: 33%;
+        padding-right: 33%;
+    }
+
+img{
+    width: 15%;
+    
+    
+}
+.part{
+    height: 30px;
+    background-color: rgb(255, 247, 135);
+    margin: 0px;
+    text-align: center;
+}
+hr{
+    height: 2px;
+    margin: 0px;
+    border-color:  rgb(247, 234, 63);
+    
+}
+
+#unico{
+      margin: 0px;
+}
+#pie{
+    margin: 0px;
+    padding-left: 33%;
+    padding-right: 33%;
+}
+h4{
+    color: red;
+    margin-bottom: 0px;
+}
