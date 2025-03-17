@@ -1,0 +1,50 @@
+.logo{
+    height: 100px;
+}
+img{
+    width: 15%;
+    padding-left: 700px;
+    
+}
+.part{
+    height: 30px;
+    padding-left: 700px;
+    background-color: rgb(255, 247, 135);
+    margin: 0px;
+}
+hr{
+    height: 2px;
+    margin: 0px;
+    border-color:  rgb(247, 234, 63);
+    
+}
+h1{
+    padding-left: 500px;
+}
+.img-princ{
+    padding-left: 600px;
+}
+h2{
+    
+    padding-left: 600px;
+}
+.elenco{
+    padding-left: 600px;
+}
+ol{
+    padding-left: 600px;
+}
+#unico{
+      margin: 0px;
+}
+#pie{
+    padding-left: 600px;
+    margin: 0px;
+}
+h4{
+    color: red;
+    margin-bottom: 0px;
+}
+.center{
+    padding-left: 600px;
+}
